@@ -13,3 +13,4 @@ Here are some ideas to get you started:
 - 🔎 How to reach me: linqianqiu@outlook.com or Wechat: linskj
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sunkangjian&show_icons=true)
+![WakeTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sunkangjian&layout=compact)
