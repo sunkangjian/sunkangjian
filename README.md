@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 🌱 Learning [Ethereum](https://ethereum.org/)
 - ⚡ Fun fact: It's hard to get rich
 - 💬 Ask me about `Backend`, `Java`...
-- 🔎 How to reach me: [linqianqiu@outlook.com](linqianqiu@outlook.com) or Wechat: linskj
+- 🔎 How to reach me: linqianqiu@outlook.com or Wechat: linskj
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sunkangjian&show_icons=true)
